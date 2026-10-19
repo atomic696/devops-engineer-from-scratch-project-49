@@ -39,4 +39,4 @@ cd devops-engineer-from-scratch-project-49
 
 ## Демонстрация Brain Even
 
-[![asciicast](https://asciinema.org/a/tFjnZ7LTRoTVrqnF.svg)](https://asciinema.org/a/tFjnZ7LTRoTVrqnF)
+[Посмотреть демонстрацию Brain Even](https://asciinema.org/a/tFjnZ7LTRoTVrqnF)
