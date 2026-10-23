@@ -4,9 +4,9 @@
 
 Учебный проект Хекслета — набор из пяти консольных игр на Python.
 
-## Стек технологий
+## Стек
 
-* Python (>= 3.10)
+* Python
 * uv
 * Ruff
 
@@ -25,13 +25,13 @@ cd devops-engineer-from-scratch-project-49
 uv sync
 ```
 
-Установите пакет Brain Games в систему:
+Установите пакет Brain Games:
 
 ```bash
-uv tool install . --force
+uv tool install .
 ```
 
-## Игры и демонстрация
+## Использование
 
 ### Игра «Чётное»
 
@@ -41,7 +41,7 @@ uv tool install . --force
 brain-even
 ```
 
-[![asciicast](https://asciinema.org/a/tFjnZ7LTRoTVrqnF.svg)](https://asciinema.org/a/6r8LD2oQRHMZRf2s)
+Демонстрация игры: [https://asciinema.org/a/tFjnZ7LTRoTVrqnF](https://asciinema.org/a/tFjnZ7LTRoTVrqnF)
 
 ---
 
@@ -53,7 +53,7 @@ brain-even
 brain-calc
 ```
 
-[![asciicast](https://asciinema.org/a/jdaktMkowC6AaoFb.svg)](https://asciinema.org/a/OOuMCRHiY5sbp7We)
+Демонстрация игры: [https://asciinema.org/a/jdaktMkowC6AaoFb](https://asciinema.org/a/jdaktMkowC6AaoFb)
 
 ---
 
@@ -65,7 +65,7 @@ brain-calc
 brain-gcd
 ```
 
-[![asciicast](https://asciinema.org/a/r3Fgee5i6I2LDDBp.svg)](https://asciinema.org/a/dJqUPRwmRLiyxkHP)
+Демонстрация игры: [https://asciinema.org/a/r3Fgee5i6I2LDDBp](https://asciinema.org/a/r3Fgee5i6I2LDDBp)
 
 ---
 
@@ -77,7 +77,7 @@ brain-gcd
 brain-progression
 ```
 
-[![asciicast](https://asciinema.org/a/HBc5TAUOLsRxJh4A.svg)](https://asciinema.org/a/blSk7zaA0doEwLJz)
+Демонстрация игры: [https://asciinema.org/a/HBc5TAUOLsRxJh4A](https://asciinema.org/a/HBc5TAUOLsRxJh4A)
 
 ---
 
@@ -89,7 +89,7 @@ brain-progression
 brain-prime
 ```
 
-[![asciicast](https://asciinema.org/a/Do5HEzuMRXgBA7xS.svg)]( https://asciinema.org/a/JL0cG2Y92loCIF18)
+Демонстрация игры: [https://asciinema.org/a/Do5HEzuMRXgBA7xS](https://asciinema.org/a/Do5HEzuMRXgBA7xS)
 
 ---
 
