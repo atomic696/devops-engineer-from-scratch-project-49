@@ -57,7 +57,7 @@ uv run brain-progression
 ```
 ## Демонстрация Brain Progression
 
-[Посмотреть демонстрацию Brain Progression](https://asciinema.org/a/r3Fgee5i6I2LDDBp)
+[Посмотреть демонстрацию Brain Progression](https://asciinema.org/a/HBc5TAUOLsRxJh4A)
 
 Запуск игры «Простое ли число?»:
 
@@ -66,7 +66,7 @@ uv run brain-prime
 ```
 ## Демонстрация Brain Prime
 
-[Посмотреть демонстрацию Brain Prime](https://asciinema.org/a/r3Fgee5i6I2LDDBp)
+[Посмотреть демонстрацию Brain Prime](https://asciinema.org/a/Do5HEzuMRXgBA7xS)
 
 <details>
 <summary>Автоматические тесты Хекслета</summary>
