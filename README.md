@@ -41,6 +41,15 @@ uv run brain-calc
 
 [Посмотреть демонстрацию Brain Calc](https://asciinema.org/a/jdaktMkowC6AaoFb)
 
+Запуск игры «НОД»:
+
+```bash
+uv run brain-gcd
+```
+## Демонстрация Brain GCD
+
+[Посмотреть демонстрацию Brain GCD](https://asciinema.org/a/r3Fgee5i6I2LDDBp)
+
 <details>
 <summary>Автоматические тесты Хекслета</summary>
 
