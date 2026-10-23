@@ -22,9 +22,21 @@ cd devops-engineer-from-scratch-project-49
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+Запуск игры «Чётное»:
 
----
+```bash
+uv run brain-even
+```
+
+Запуск игры «Калькулятор»:
+
+```bash
+uv run brain-calc
+```
+
+### Демонстрация Brain Calc
+
+[Посмотреть демонстрацию Brain Calc](brain-calc.cast)
 
 <details>
 <summary>Автоматические тесты Хекслета</summary>
