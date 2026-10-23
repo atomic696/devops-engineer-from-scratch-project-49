@@ -41,7 +41,7 @@ uv tool install . --force
 brain-even
 ```
 
-[![asciicast](https://asciinema.org/a/tFjnZ7LTRoTVrqnF.svg)](https://asciinema.org/a/tFjnZ7LTRoTVrqnF)
+[![asciicast](https://asciinema.org/a/tFjnZ7LTRoTVrqnF.svg)](https://asciinema.org/a/6r8LD2oQRHMZRf2s)
 
 ---
 
@@ -53,7 +53,7 @@ brain-even
 brain-calc
 ```
 
-[![asciicast](https://asciinema.org/a/jdaktMkowC6AaoFb.svg)](https://asciinema.org/a/jdaktMkowC6AaoFb)
+[![asciicast](https://asciinema.org/a/jdaktMkowC6AaoFb.svg)](https://asciinema.org/a/OOuMCRHiY5sbp7We)
 
 ---
 
@@ -65,7 +65,7 @@ brain-calc
 brain-gcd
 ```
 
-[![asciicast](https://asciinema.org/a/r3Fgee5i6I2LDDBp.svg)](https://asciinema.org/a/r3Fgee5i6I2LDDBp)
+[![asciicast](https://asciinema.org/a/r3Fgee5i6I2LDDBp.svg)](https://asciinema.org/a/dJqUPRwmRLiyxkHP)
 
 ---
 
@@ -77,7 +77,7 @@ brain-gcd
 brain-progression
 ```
 
-[![asciicast](https://asciinema.org/a/HBc5TAUOLsRxJh4A.svg)](https://asciinema.org/a/HBc5TAUOLsRxJh4A)
+[![asciicast](https://asciinema.org/a/HBc5TAUOLsRxJh4A.svg)](https://asciinema.org/a/blSk7zaA0doEwLJz)
 
 ---
 
@@ -89,7 +89,7 @@ brain-progression
 brain-prime
 ```
 
-[![asciicast](https://asciinema.org/a/Do5HEzuMRXgBA7xS.svg)](https://asciinema.org/a/Do5HEzuMRXgBA7xS)
+[![asciicast](https://asciinema.org/a/Do5HEzuMRXgBA7xS.svg)]( https://asciinema.org/a/JL0cG2Y92loCIF18)
 
 ---
 
