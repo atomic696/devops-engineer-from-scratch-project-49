@@ -2,79 +2,107 @@
 
 [![hexlet-check](https://github.com/atomic696/devops-engineer-from-scratch-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/atomic696/devops-engineer-from-scratch-project-49/actions)
 
-Погрузитесь в экосистему Python и научитесь настраивать рабочее окружение. Подружитесь с менеджером зависимостей и линтером. Поймете, чем git отличается от GitHub, поработаете с внешними репозиториями. Получите опыт построения архитектуры полноценного приложения и написания чистого кода.
+Учебный проект Хекслета — набор из пяти консольных игр на Python.
 
-Учебный проект Хекслета: https://ru.hexlet.io/programs/devops-engineer-from-scratch
-Как это должно работать: https://asciinema.org/a/l40Lrk3midkLmNEOmgZErGnY7
+## Стек технологий
 
-## Стек
-
-- Python
+* Python (>= 3.10)
+* uv
+* Ruff
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
+Клонируйте репозиторий и перейдите в директорию проекта:
 
 ```bash
 git clone https://github.com/atomic696/devops-engineer-from-scratch-project-49.git
 cd devops-engineer-from-scratch-project-49
 ```
 
-## Использование
-
-Запуск игры «Чётное»:
+Установите зависимости:
 
 ```bash
-uv run brain-even
+uv sync
 ```
-## Демонстрация Brain Even
 
-[Посмотреть демонстрацию Brain Even](https://asciinema.org/a/tFjnZ7LTRoTVrqnF)
-
-Запуск игры «Калькулятор»:
+Установите пакет Brain Games в систему:
 
 ```bash
-uv run brain-calc
+uv tool install . --force
 ```
 
-### Демонстрация Brain Calc
+## Игры и демонстрация
 
-[Посмотреть демонстрацию Brain Calc](https://asciinema.org/a/jdaktMkowC6AaoFb)
+### Игра «Чётное»
 
-Запуск игры «НОД»:
+Запуск игры:
 
 ```bash
-uv run brain-gcd
+brain-even
 ```
-## Демонстрация Brain GCD
 
-[Посмотреть демонстрацию Brain GCD](https://asciinema.org/a/r3Fgee5i6I2LDDBp)
+[![asciicast](https://asciinema.org/a/tFjnZ7LTRoTVrqnF.svg)](https://asciinema.org/a/tFjnZ7LTRoTVrqnF)
 
-Запуск игры «Арифметическая прогрессия»:
+---
+
+### Игра «Калькулятор»
+
+Запуск игры:
 
 ```bash
-uv run brain-progression
+brain-calc
 ```
-## Демонстрация Brain Progression
 
-[Посмотреть демонстрацию Brain Progression](https://asciinema.org/a/HBc5TAUOLsRxJh4A)
+[![asciicast](https://asciinema.org/a/jdaktMkowC6AaoFb.svg)](https://asciinema.org/a/jdaktMkowC6AaoFb)
 
-Запуск игры «Простое ли число?»:
+---
+
+### Игра «НОД»
+
+Запуск игры:
 
 ```bash
-uv run brain-prime
+brain-gcd
 ```
-## Демонстрация Brain Prime
 
-[Посмотреть демонстрацию Brain Prime](https://asciinema.org/a/Do5HEzuMRXgBA7xS)
+[![asciicast](https://asciinema.org/a/r3Fgee5i6I2LDDBp.svg)](https://asciinema.org/a/r3Fgee5i6I2LDDBp)
 
-<details>
-<summary>Автоматические тесты Хекслета</summary>
+---
 
-Тесты запускаются на каждый коммит. За запуск отвечает файл `.github/workflows/hexlet-check.yml` — не удаляйте и не переименовывайте ни его, ни репозиторий.
+### Игра «Арифметическая прогрессия»
 
-</details>
+Запуск игры:
 
-## О Хекслете
+```bash
+brain-progression
+```
 
-[Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
+[![asciicast](https://asciinema.org/a/HBc5TAUOLsRxJh4A.svg)](https://asciinema.org/a/HBc5TAUOLsRxJh4A)
+
+---
+
+### Игра «Простое ли число?»
+
+Запуск игры:
+
+```bash
+brain-prime
+```
+
+[![asciicast](https://asciinema.org/a/Do5HEzuMRXgBA7xS.svg)](https://asciinema.org/a/Do5HEzuMRXgBA7xS)
+
+---
+
+## Проверка кода
+
+Для проверки стиля кода выполните:
+
+```bash
+uv run ruff check brain_games
+```
+
+Статус автоматических проверок Хекслета отображается в бейдже в начале README.
+
+## О проекте
+
+Проект выполнен в рамках обучения на Хекслете и предназначен для практики Python, работы с пакетами, командной строкой, линтером и GitHub.
