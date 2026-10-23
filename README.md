@@ -27,6 +27,9 @@ cd devops-engineer-from-scratch-project-49
 ```bash
 uv run brain-even
 ```
+## Демонстрация Brain Even
+
+[Посмотреть демонстрацию Brain Even](https://asciinema.org/a/tFjnZ7LTRoTVrqnF)
 
 Запуск игры «Калькулятор»:
 
@@ -36,7 +39,7 @@ uv run brain-calc
 
 ### Демонстрация Brain Calc
 
-[Посмотреть демонстрацию Brain Calc](brain-calc.cast)
+[Посмотреть демонстрацию Brain Calc](https://asciinema.org/a/jdaktMkowC6AaoFb)
 
 <details>
 <summary>Автоматические тесты Хекслета</summary>
@@ -48,7 +51,3 @@ uv run brain-calc
 ## О Хекслете
 
 [Хекслет](https://ru.hexlet.io/) — школа программирования: авторские программы обучения с практикой, поддержкой наставников и реальными проектами, которые остаются в резюме. Этот репозиторий — один из таких проектов.
-
-## Демонстрация Brain Even
-
-[Посмотреть демонстрацию Brain Even](https://asciinema.org/a/tFjnZ7LTRoTVrqnF)
