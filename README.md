@@ -41,7 +41,7 @@ uv tool install .
 brain-even
 ```
 
-Демонстрация игры: [https://asciinema.org/a/tFjnZ7LTRoTVrqnF](https://asciinema.org/a/tFjnZ7LTRoTVrqnF)
+Демонстрация игры: [![asciicast](https://asciinema.org/a/jdaktMkowC6AaoFb.svg)](https://asciinema.org/a/jdaktMkowC6AaoFb)
 
 ---
 
@@ -53,7 +53,7 @@ brain-even
 brain-calc
 ```
 
-Демонстрация игры: [https://asciinema.org/a/jdaktMkowC6AaoFb](https://asciinema.org/a/jdaktMkowC6AaoFb)
+Демонстрация игры: [![asciicast](https://asciinema.org/a/jdaktMkowC6AaoFb.svg)](https://asciinema.org/a/jdaktMkowC6AaoFb)
 
 ---
 
@@ -65,7 +65,7 @@ brain-calc
 brain-gcd
 ```
 
-Демонстрация игры: [https://asciinema.org/a/r3Fgee5i6I2LDDBp](https://asciinema.org/a/r3Fgee5i6I2LDDBp)
+Демонстрация игры: [![asciicast](https://asciinema.org/a/r3Fgee5i6I2LDDBp.svg)](https://asciinema.org/a/r3Fgee5i6I2LDDBp)
 
 ---
 
@@ -77,7 +77,7 @@ brain-gcd
 brain-progression
 ```
 
-Демонстрация игры: [https://asciinema.org/a/HBc5TAUOLsRxJh4A](https://asciinema.org/a/HBc5TAUOLsRxJh4A)
+Демонстрация игры: [![asciicast](https://asciinema.org/a/HBc5TAUOLsRxJh4A.svg)](https://asciinema.org/a/HBc5TAUOLsRxJh4A)
 
 ---
 
@@ -89,7 +89,7 @@ brain-progression
 brain-prime
 ```
 
-Демонстрация игры: [https://asciinema.org/a/Do5HEzuMRXgBA7xS](https://asciinema.org/a/Do5HEzuMRXgBA7xS)
+Демонстрация игры: [![asciicast](https://asciinema.org/a/Do5HEzuMRXgBA7xS.svg)](https://asciinema.org/a/Do5HEzuMRXgBA7xS)
 
 ---
 
