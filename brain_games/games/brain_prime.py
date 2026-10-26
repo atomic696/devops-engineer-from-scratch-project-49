@@ -1,3 +1,4 @@
+import math
 import random
 
 DESCRIPTION = "Answer 'yes' if given number is prime. Otherwise answer 'no'."
@@ -15,6 +16,5 @@ def is_prime(number):
 def generate_round():
     number = random.randint(1, 100)
     question = str(number)
-    # Использован тернарный оператор по требованию ревьюера:
     correct_answer = 'yes' if is_prime(number) else 'no'
     return question, correct_answer
